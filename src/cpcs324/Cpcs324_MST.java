@@ -8,10 +8,10 @@
 	*Sumaya Bamer 1911108
 	*Sadeem Alhijiri 1913044
 	*Maha ALtwiem 1905255
- * Refrence we use code from the following 
- * 
- *
- * We add the folowing method (Make_graph)
+ * Refrence  
+ *https://gist.github.com/thmain/77ec4ec91fa3b0a97a6279bdbbfa955f
+ *https://gist.github.com/thmain/d29f274d2769974a8950b5e0436fda92
+ * We use the code from the above and add methods
  */
 package cpcs324;
 
